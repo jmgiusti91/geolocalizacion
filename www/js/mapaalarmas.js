@@ -1,4 +1,4 @@
-angular.module('alta.controllers')
+angular.module('alta.controllers', [])
   .controller('mapaAlarmas', function($scope, NgMap, Delitos, $interval){
     $scope.map = {};
     $scope.map.name = "Alarmas";
