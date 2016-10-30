@@ -1,7 +1,7 @@
 {
-  "name": "geolocalizacion",
+  "name": "ejemplogeo",
   "version": "1.1.1",
-  "description": "geolocalizacion: An Ionic project",
+  "description": "ejemploGeo: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
